@@ -1,1 +1,1 @@
-Write-Host "Hello world, my name is Andrew Meade."
+Write-Host "Hello world
